@@ -200,7 +200,8 @@ class MainWindow(QMainWindow):
         self.template_map = {
             "GUI pyqt5 template 1": resource_path("data", "pyqt5_project_template_1.zip"),
             "CMD desktop 1": resource_path("data", "cmd_project_desktop_1.zip"),
-            "CMD simple 1": resource_path("data", "cmd_project_simple_1.zip")
+            "CMD simple 1": resource_path("data", "cmd_project_simple_1.zip"),
+            "LIB simple 1": resource_path("data", "lib_project_simple_1.zip")
         }
 
         self._create_toolbar()
