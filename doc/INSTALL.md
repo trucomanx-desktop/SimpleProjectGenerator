@@ -11,6 +11,12 @@ The homepage in pipy is https://pypi.org/project/simple_project_generator/
 pip install --upgrade simple_project_generator
 ```
 
+or (recommended for desktop applications)
+
+```bash
+pipx install simple_project_generator
+```
+
 Using:
 
 ```bash

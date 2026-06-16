@@ -9,11 +9,21 @@ My pypi project generator
 To install the package from [PyPI](https://pypi.org/project/simple_project_generator/), follow the instructions below:
 
 
+### With pip
+
 ```bash
 pip install --upgrade simple_project_generator
 ```
 
 Execute `which simple-project-generator` to see where it was installed, probably in `/home/USERNAME/.local/bin/simple-project-generator`.
+
+### With pipx (recommended for desktop applications)
+
+```bash
+pipx install simple_project_generator
+```
+
+If you need to upgrade later: `pipx upgrade simple_project_generator`
 
 ### Using
 
