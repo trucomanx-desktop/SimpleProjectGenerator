@@ -2,7 +2,6 @@
 
 My pypi project generator
 
-
 ## Install from PYPI
 
 The homepage in pipy is https://pypi.org/project/simple_project_generator/
